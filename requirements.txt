@@ -1,0 +1,10 @@
+flask
+pymongo
+flask-cors
+pandas
+numpy
+Flask-Mail
+gunicorn
+pymongo
+dnspython
+pymongo[srv]

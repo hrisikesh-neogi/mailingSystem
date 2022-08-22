@@ -1,0 +1,16 @@
+{
+    "params":
+    {
+      "local_server":"True",
+      "fb_url":"https://facebook.com/codingthunder",
+      "tw_url":"https://twitter.com/codingthunder",
+      "gh_url": "https://github.com/codingthunder",
+      "blog_name": "Coding Thunder",
+      "tag_line": "Heaven for programmers",
+      "gmail-user":"mailingsystem.hrisikesh@gmail.com",
+      "gmail-password":"mailingsystem@123",
+      "mongo_url":"mongodb+srv://HrisikeshNeogi:inmail22@inlab.gjbvl.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+      "mongo_db":"codingthunder"
+      
+    }
+  }
